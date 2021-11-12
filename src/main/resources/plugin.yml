@@ -1,0 +1,4 @@
+name: FirstPluginTogether
+version: '${project.version}'
+main: me.dominpiano.firstplugintogether.Main
+api-version: 1.16
